@@ -10,7 +10,7 @@
           <p>Naruto es una serie de manga que comenzó en la revista Shōnen Jump en 1998. 
              Pronto se convirtió en un éxito nacional que se adaptó al anime en 2002 y,
              según su sitio oficial, el manga ha vendido hoy más de 250 millones de ejemplares 
-             individuales en todo el mundo.</p>
+             individuales en todo el mundoo.</p>
         </div>
       </router-link>
     </div>
